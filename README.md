@@ -1,7 +1,9 @@
 <div align="center">
-  
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Harsh%20Kamboj&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Healthcare%20Tech%20Innovator&descAlignY=55&descSize=22&descColor=a9b1d6" />
+
+<!-- CUSTOM BANNER IMAGE -->
+<img src="./assets/header-banner.png" width="100%" alt="Harsh Kamboj - Full-Stack Developer & Healthcare Tech Innovator"/>
+
+<br/>
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -24,20 +26,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- ABOUT ME SECTION -->
+<br/>
+
+<!-- ABOUT ME SECTION WITH WORKSPACE IMAGE -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
+<img align="right" width="320" src="./assets/coding-workspace.png" alt="My Development Setup"/>
 
 ```yaml
 name: Harsh Kamboj
-located_in: India
+located_in: India 🇮🇳
 education: Computer Science & Engineering (CSE)
 current_focus: Full-Stack Web Development & Healthcare Technology
 
 fields_of_interest:
   - "🏥 Healthcare Technology"
-  - "🌐 Full-Stack Web Development"
+  - "🌐 Full-Stack Web Development"  
   - "📱 Responsive Web Applications"
   - "🗄️ Database Architecture"
   - "🔐 Secure Application Development"
@@ -56,6 +60,8 @@ fun_fact: "I code to save lives — literally! 🩺💻"
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+<br/>
 
 <!-- TECH STACK SECTION -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Arsenal
@@ -104,30 +110,7 @@ fun_fact: "I code to save lives — literally! 🩺💻"
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- FEATURED PROJECTS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/harshkamboj1/Telemedicine">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=harshkamboj1&repo=Telemedicine&theme=tokyonight&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=a9b1d6&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/harshkamboj1/Pet-shelter-management-system">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=harshkamboj1&repo=Pet-shelter-management-system&theme=tokyonight&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=a9b1d6&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/harshkamboj1/Telemedicine-healthcare">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=harshkamboj1&repo=Telemedicine-healthcare&theme=tokyonight&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=a9b1d6&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/harshkamboj1/Inventory-Mnagement-System-for-small-store">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=harshkamboj1&repo=Inventory-Mnagement-System-for-small-store&theme=tokyonight&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=a9b1d6&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<br/>
 
 <!-- GITHUB STATS SECTION -->
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30px"> GitHub Analytics
@@ -137,9 +120,13 @@ fun_fact: "I code to save lives — literally! 🩺💻"
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkamboj1&theme=tokyonight&border=6e40c9&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=FF6B6B&currStreakLabel=6e40c9&sideLabels=a9b1d6&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=a9b1d6" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkamboj1&layout=donut-vertical&theme=tokyonight&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
+
+<br/>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
@@ -150,6 +137,55 @@ fun_fact: "I code to save lives — literally! 🩺💻"
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+<br/>
+
+<!-- FEATURED PROJECTS WITH PREVIEW IMAGE -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Featured Projects
+
+<div align="center">
+
+### 🏥 Telemedicine — Healthcare for Rural India
+<img width="700" src="./assets/telemedicine-preview.png" alt="Telemedicine Platform Preview"/>
+
+<br/>
+<em>Full-stack Telemedicine web application designed to improve healthcare accessibility in rural areas like Nabha, where timely medical support is often limited.</em>
+<br/><br/>
+
+<a href="https://github.com/harshkamboj1/Telemedicine">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-6e40c9?style=for-the-badge" alt="View Repo"/>
+</a>
+<a href="https://github.com/harshkamboj1/Telemedicine-healthcare">
+  <img src="https://img.shields.io/badge/🔗_Healthcare_Version-4b91f1?style=for-the-badge" alt="Healthcare Version"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/harshkamboj1/Pet-shelter-management-system">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=harshkamboj1&repo=Pet-shelter-management-system&theme=tokyonight&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=a9b1d6&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/harshkamboj1/Inventory-Mnagement-System-for-small-store">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=harshkamboj1&repo=Inventory-Mnagement-System-for-small-store&theme=tokyonight&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=a9b1d6&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/harshkamboj1/Portfolio">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=harshkamboj1&repo=Portfolio&theme=tokyonight&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=a9b1d6&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/harshkamboj1/CSE326">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=harshkamboj1&repo=CSE326&theme=tokyonight&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=a9b1d6&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
 
 <!-- GITHUB TROPHIES -->
 ## 🏆 GitHub Trophies
@@ -162,6 +198,8 @@ fun_fact: "I code to save lives — literally! 🩺💻"
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+<br/>
 
 <!-- CONTRIBUTION SNAKE -->
 ## 🐍 Watch My Contributions Get Eaten
@@ -178,6 +216,8 @@ fun_fact: "I code to save lives — literally! 🩺💻"
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+<br/>
 
 <!-- WHAT I BRING TO THE TABLE -->
 ## 💎 What I Bring to the Table
@@ -199,6 +239,8 @@ fun_fact: "I code to save lives — literally! 🩺💻"
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+<br/>
 
 <!-- CONNECT WITH ME -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Let's Connect
@@ -231,31 +273,38 @@ fun_fact: "I code to save lives — literally! 🩺💻"
 <div align="center">
   
   ```text
-  🌅 Morning    ████████░░░░░░░░░  40%
-  🌆 Afternoon  ██████░░░░░░░░░░░  30%
-  🌃 Evening    ████░░░░░░░░░░░░░  20%
-  🌙 Night      ██░░░░░░░░░░░░░░░  10%
+  🌅 Morning    ████████░░░░░░░░░  40% — Fresh ideas & planning
+  🌆 Afternoon  ██████░░░░░░░░░░░  30% — Deep coding sessions
+  🌃 Evening    ████░░░░░░░░░░░░░  20% — Code reviews & testing
+  🌙 Night      ██░░░░░░░░░░░░░░░  10% — Learning new tech
   ```
 
 </div>
 
 <!-- ANIMATED FOOTER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+
 </div>
 
 <!-- HIDDEN EASTER EGG -->
 <!--
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   🎯 If you're a recruiter from Google:              ║
-║                                                      ║
-║   I'm passionate about building technology that      ║
-║   makes a real difference in people's lives.         ║
-║   My telemedicine platform has helped bring           ║
-║   healthcare to underserved rural communities.       ║
-║                                                      ║
-║   Let's chat! 🚀                                     ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   🎯 If you're a recruiter from Google:                  ║
+║                                                          ║
+║   I'm passionate about building technology that          ║
+║   makes a real difference in people's lives.             ║
+║   My telemedicine platform has helped bring              ║
+║   healthcare to underserved rural communities.           ║
+║                                                          ║
+║   I thrive on solving complex problems and               ║
+║   building scalable, impactful solutions.                ║
+║                                                          ║
+║   Let's chat! 🚀                                         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 -->
