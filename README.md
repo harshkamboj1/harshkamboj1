@@ -41,7 +41,7 @@ current_focus: Full-Stack Web Development & Healthcare Technology
 
 fields_of_interest:
   - "🏥 Healthcare Technology"
-  - "🌐 Full-Stack Web Development"  
+  - "🌐 Full-Stack Web Development"
   - "📱 Responsive Web Applications"
   - "🗄️ Database Architecture"
   - "🔐 Secure Application Development"
